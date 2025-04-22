@@ -1,5 +1,4 @@
 ## ![Descripción de la imagen](https://github.com/AngelGut/AngelGut/blob/main/Tri-byte-color%20para%20el%20titulo.png) Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Angel Gutierrez
-=======================================================================================================================================
 
 Ingeniero de Software
 ---------------------
@@ -8,6 +7,8 @@ Ingeniero de Software
 
 <a href="https://www.github.com/AngelGut" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AngelGut?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+
+![Banner de TRI-BYTE](https://github.com/AngelGut/AngelGut/blob/main/cabezera%20final.png)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
