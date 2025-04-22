@@ -24,6 +24,10 @@
 
 <a href="http://www.github.com/AngelGut"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelGut&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<!-- aqui agrego el logo de gmail
+-->
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
+
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
