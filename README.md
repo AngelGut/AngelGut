@@ -56,15 +56,14 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
- <a href="https://github.com/AngelGut">
-    <img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=Pepyn0&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/Pepyn0">
-    <img align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepyn0&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
+<a href="https://github.com/AngelGut">
+  <img width=450 height=170 align="center" alt="AngelGut" src="https://github-readme-stats.vercel.app/api?username=AngelGut&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/AngelGut">
+  <img align="center" alt="AngelGut" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelGut&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+</a>
 </div>
 
-<div>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
