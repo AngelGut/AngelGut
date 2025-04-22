@@ -60,7 +60,7 @@
   <img width=450 height=170 align="center" alt="AngelGut" src="https://github-readme-stats.vercel.app/api?username=AngelGut&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
 </a>
 <a href="https://github.com/AngelGut">
-  <img align="center" alt="AngelGut" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelGut&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  <img align="center" alt="AngelGut" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelGut&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true&langs_count=10" />
 </a>
 </div>
 
