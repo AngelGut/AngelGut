@@ -64,6 +64,7 @@
 </a>
 </div>
 
+<a href="http://www.github.com/AngelGut"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelGut&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -104,8 +105,6 @@
 
 <div align='center'>
 
-##prueba
-<a href="https://github.com/AngelGut" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelGut&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--
 **AngelGut/AngelGut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
