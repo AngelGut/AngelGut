@@ -1,6 +1,7 @@
 ## Hola, mi nombre es Angel Gutierrez 👋
-https://github.com/AngelGut/AngelGut/blob/main/tribyte%20github.png
+![TRI-BYTE Banner](https://github.com/AngelGut/AngelGut/blob/main/tribyte%20github.png?raw=true)
 ### Ingeniero en Software
+
 <!--
 **AngelGut/AngelGut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
