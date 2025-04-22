@@ -1,5 +1,5 @@
 ## Hola, mi nombre es Angel Gutierrez 👋
-![TRI-BYTE Banner](https://github.com/AngelGut/AngelGut/blob/main/tribyte%20github.png?raw=true)
+
 ### Ingeniero en Software
 
 <!--
