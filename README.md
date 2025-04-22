@@ -1,4 +1,4 @@
-## ![Descripción de la imagen](https://github.com/AngelGut/AngelGut/blob/main/Tri-byte-color.png) Hola, mi nombre es Angel Gutierrez 👋
+## ![Descripción de la imagen](https://github.com/AngelGut/AngelGut/blob/main/Tri-byte-color%20para%20el%20titulo.png) Hola, mi nombre es Angel Gutierrez 👋
 ![Banner de TRI-BYTE](https://github.com/AngelGut/AngelGut/blob/main/cabezera%20final.png)
 ### Ingeniero en Software
 
